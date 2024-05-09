@@ -38,3 +38,8 @@ a {
   width: 20px;
   margin-left: 10px;
 }
+/* Btn which contains both btn and dark-btn classes */
+.btn.dark-btn {
+  background: #212ea0;
+  color: #fff;
+}
