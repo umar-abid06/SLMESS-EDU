@@ -41,6 +41,17 @@
   color: #676767;
 }
 .slide img {
+  width: 65px;
+  border-radius: 50%;
+  margin-right: 10px;
+  border: 4px solid #212ea0;
 }
 .user-info {
+  display: flex;
+  align-items: center;
+  font-size: 15px;
+  margin-bottom: 20px;
+}
+.user-info h3 {
+  color: #212ea0;
 }
