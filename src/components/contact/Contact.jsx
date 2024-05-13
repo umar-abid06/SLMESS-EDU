@@ -51,12 +51,12 @@ const Contact = () => {
             <img src={mail_icon} alt="mail-icon" /> contact@slmess.edu
           </li>
           <li>
-            <img src={phone_icon} alt="phone-icon" /> +92-3192376145
+            <img src={phone_icon} alt="phone-icon" /> +49-3192376145
           </li>
           <li>
             <img src={location_icon} alt="location-icon" />
-            Street 4, Sector 11/D Orangi Town, <br />
-            Karachi, Pakistan
+            Street 4, Sector 11/D ABC Town, <br />
+            Germany
           </li>
         </ul>
       </div>
